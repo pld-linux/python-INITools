@@ -1,5 +1,5 @@
 Summary:	Tools for parsing and using INI-style files
-Summary(pl):	Narzêdzia do przetwarzania i u¿ywania plików w stylu INI
+Summary(pl.UTF-8):   NarzÄ™dzia do przetwarzania i uÅ¼ywania plikÃ³w w stylu INI
 Name:		python-INITools
 Version:	0.2
 Release:	1
@@ -17,9 +17,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 A set of tools for parsing and using .ini-style files, including an
 abstract parser and several tools built on that parser.
 
-%description -l pl
-Zestaw narzêdzi do przetwarzania plików w stylu .ini, w tym
-abstrakcyjny parser i kilka narzêdzi stworzonych w oparciu o ten
+%description -l pl.UTF-8
+Zestaw narzÄ™dzi do przetwarzania plikÃ³w w stylu .ini, w tym
+abstrakcyjny parser i kilka narzÄ™dzi stworzonych w oparciu o ten
 parser.
 
 %prep
