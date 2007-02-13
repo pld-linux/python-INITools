@@ -1,5 +1,5 @@
 Summary:	Tools for parsing and using INI-style files
-Summary(pl.UTF-8):   Narzędzia do przetwarzania i używania plików w stylu INI
+Summary(pl.UTF-8):	Narzędzia do przetwarzania i używania plików w stylu INI
 Name:		python-INITools
 Version:	0.2
 Release:	1
