@@ -2,7 +2,7 @@ Summary:	Tools for parsing and using INI-style files
 Summary(pl.UTF-8):	Narzędzia do przetwarzania i używania plików w stylu INI
 Name:		python-INITools
 Version:	0.3
-Release:	1
+Release:	2
 Group:		Development/Languages/Python
 License:	X11/MIT
 Source0:	http://cheeseshop.python.org/packages/source/I/INITools/INITools-%{version}.tar.gz
