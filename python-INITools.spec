@@ -3,12 +3,15 @@ Summary(pl.UTF-8):	Narzędzia do przetwarzania i używania plików w stylu INI
 Name:		python-INITools
 Version:	0.3
 Release:	3
-Group:		Development/Languages/Python
 License:	X11/MIT
+Group:		Development/Languages/Python
 Source0:	http://cheeseshop.python.org/packages/source/I/INITools/INITools-%{version}.tar.gz
 # Source0-md5:	078026b712cd4017ee1b79587e617ebd
 URL:		http://pythonpaste.org/initools/
 BuildRequires:	python-devel
+BuildRequires:	python-modules
+BuildRequires:	python-setuptools
+BuildRequires:	rpm-pythonprov
 %pyrequires_eq	python-modules
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
